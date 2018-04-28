@@ -1009,9 +1009,3 @@ public final class R
     public static final int View_paddingStart = 1;
   }
 }
-
-
-/* Location:              C:\Users\admin\Desktop\github\Android counter\theway.count-1\dex2jar-2.0\classes-dex2jar.jar!\theway\count\R.class
- * Java compiler version: 6 (50.0)
- * JD-Core Version:       0.7.1
- */
