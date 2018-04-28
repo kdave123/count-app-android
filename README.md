@@ -1,4 +1,4 @@
-# theway-count-app-android
+# count-app-android
 Counting Application in Android Studio
 
 Simple Application created by me allows to keep track of count and display it on screen in Android Devices
