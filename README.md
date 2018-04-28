@@ -8,4 +8,4 @@ Features
   2.Subtract 1 from Total Count
   3.RESET the Count Value
   
-![alt text](https://raw.githubusercontent.com/kdave123/theway-count-app-android/tree/master/theway_count.png)
+![Screenshot](theway_count.png)
